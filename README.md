@@ -37,8 +37,8 @@ $ npm start
 ## Deployment Links
 
 - Backend: 
--- https://stream-sensor.onrender.com/
--- https://stream-sensor.onrender.com/stream
+* https://stream-sensor.onrender.com/
+* https://stream-sensor.onrender.com/stream
 
 - Frontend: 
--- https://stream-sensor.netlify.app/
+* https://stream-sensor.netlify.app/
